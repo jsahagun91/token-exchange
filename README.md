@@ -6,6 +6,6 @@
 
 Token Exchange Dapp with custom token on Kovan Network
 
-###### Tools used: React Native, Node, Web3.js.
+###### Tools used: React Native, Node, Solidity, Redux, Web3.js.
 
 🪙 Token Exchange Dapp by Jose Sahagun [jsahagun.io](https://jsahagun.io/).
