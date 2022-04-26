@@ -6,7 +6,7 @@ class Navbar extends Component {
     render() {
         return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-          <a className="navbar-brand" href="/#">BingBong Token Exchange</a>
+          <a className="navbar-brand" href="/#">Bing Bong Token Exchange</a>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropbdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"> </span>
           </button>
