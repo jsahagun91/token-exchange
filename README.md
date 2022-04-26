@@ -1,6 +1,6 @@
 # Bing Bong Token Exchange
 
-![Dapp Token Exchange](/assets/exchange.gif)
+![Dapp Token Exchange](/assets/bingBongTokenDapp.gif)
 
 ## Deployed project: https://token-exchange.vercel.app/
 
