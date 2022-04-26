@@ -1,12 +1,12 @@
 {
-  "name": "bootcamp",
+  "name": "Bing Bong Token Exchange",
   "version": "0.2.0",
-  "description": "Decentralized Ethereum Token Exchange",
-  "author": "dev@dappuniversity.com",
+  "description": "Dapp Token Exchange",
+  "author": "Jose Sahagun",
   "private": true,
   "homepage": ".",
   "engines": {
-    "node": "8.11.1"
+    "node": "14.x"
   },
   "dependencies": {
     "@truffle/hdwallet-provider": "1.1.0",
