@@ -4,6 +4,8 @@
 
 ## Deployed project: https://token-exchange.vercel.app/
 
-###### Tools used: React Native, Node.js, Web3.js,
+Token Exchange Dapp with custom token on Kovan Network
 
-🪙 Token Exchange dapp by Jose Sahagun [jsahagun.io](https://jsahagun.io/).
+###### Tools used: React Native, Node, Web3.js.
+
+🪙 Token Exchange Dapp by Jose Sahagun [jsahagun.io](https://jsahagun.io/).
